@@ -1,0 +1,15 @@
+	estimation error	validation error
+sigmoid 20	 2.10%	 2.06%
+sigmoid 24	 2.20%	 2.23%
+tanh 20	 1.55%	 1.59%
+tanh 24	 1.63%	 1.69%
+arctan 20	 2.34%	 2.36%
+arctan 24	 2.95%	 2.94%
+relu 20	 0.65%	 0.76%
+relu 24	 0.68%	 0.74%
+prelu 20	 0.60%	 0.55%
+prelu 24	 0.80%	 0.84%
+softplus 20	56.47%	57.20%
+softplus 24	52.67%	52.79%
+softmax 20	20.73%	20.94%
+softmax 24	20.33%	20.12%

@@ -1,0 +1,9 @@
+	estimation error	validation error
+drop 5, .5	 0.36%	 0.30%
+drop 5, .7	 0.23%	 0.30%
+drop 10, .5	 0.25%	 0.29%
+drop 10, .7	 4.66%	 4.45%
+drop 15, .5	 0.23%	 0.26%
+drop 15, .7	 9.17%	 9.05%
+drop 20, .5	12.84%	13.00%
+drop 25, .5	22.07%	21.71%
